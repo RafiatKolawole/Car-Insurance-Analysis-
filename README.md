@@ -28,4 +28,4 @@ The dashboard consolidates key insurance metrics and explores how demographic, v
 This analysis highlights how customer demographics, vehicle characteristics, and location contribute to insurance risk. The project strengthened my Excel-based data analysis, visualization, and dashboard-building skills.
 
 ## Dashboard Preview
-*(Insert dashboard screenshots here)*
+![Dashboard Preview](IMG_5728.jpeg)
