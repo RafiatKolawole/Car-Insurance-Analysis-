@@ -1,4 +1,4 @@
-# Car Insurance Claims Analysis Dashboard
+# Car Insurance Claims Analysis 
 
 ## Project Overview
 This project analyzes car insurance claims data to identify patterns in customer behavior, claim frequency, and key risk factors that influence both claim occurrence and claim cost.
